@@ -1,0 +1,2 @@
+rootProject.name='KListView'
+include ':app'
